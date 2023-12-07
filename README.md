@@ -1,0 +1,2 @@
+# File Management System
+ The Git repository for the File Management App provides a streamlined platform for users to manage and view their uploaded files. With personalized functionalities, users can efficiently organize and monitor their contributions. Additionally, administrators enjoy extensive control, overseeing all registered users and managing files uploaded by every user. This centralized repository ensures smooth collaboration, efficient file management, and robust administrative capabilities for optimal project control.
